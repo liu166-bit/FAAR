@@ -1,7 +1,7 @@
 # Feature-Level-Adversarial-Attacks-and-Ranking-Disruption
 ### This is the code for the nips'24 paper "Feature-Level Adversarial Attacks and Ranking Disruption for Visible-Infrared Person Re-identification." 
 
-![frame]([E:\FAAR\images\frame.png](https://github.com/liu166-bit/FAAR/blob/main/images/frame.png))
+![frame]([https://github.com/liu166-bit/FAAR/blob/main/images/frame.png])
 
 ### 1. Baseline.
 
