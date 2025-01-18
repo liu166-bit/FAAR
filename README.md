@@ -34,8 +34,24 @@ python test.py --mode all --resume 'model_path' --gpu 1 --dataset sysu
   - `--trial`: testing trial (only for RegDB dataset).
   - `--resume`: the saved model path.
   - `--gpu`:  which gpu to run.
+## 4. Citation
 
-### 4. Refrence
+Kindly include a reference to this paper in your publications if it helps your research:
+
+```
+@inproceedings{
+yang2024featurelevel,
+title={Feature-Level Adversarial Attacks and Ranking Disruption for Visible-Infrared Person Re-identification},
+author={Xi Yang and Huanling Liu and De Cheng and Nannan Wang and Xinbo Gao},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024},
+url={https://openreview.net/forum?id=RaNct2xkyI}
+}
+```
+
+
+
+### 5. Refrence
 
 [1] M. Ye, J. Shen, G. Lin, T. Xiang, L. Shao, and S. C., Hoi.  Deep learning for person re-identification: A survey and outlook. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
 
